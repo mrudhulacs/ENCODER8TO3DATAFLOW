@@ -71,13 +71,13 @@ endmodule
 
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIAGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 
 ![Experiment 5   DE](https://github.com/user-attachments/assets/8eb00a70-f9d2-44c0-aab4-b3d0d2da9d05)
 
 
-**RESULTS**
+**RESULT**
 
 Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables is verified.
 
